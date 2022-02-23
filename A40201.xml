@@ -1,0 +1,301 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hypocrites fast and feast not God's holy day hat-honour to men, man's institution not God's : presented to the view and consideration of papistical and Protestant time servers and day-observers, vvill-worshippers and persecutors, and satisfaction of the moderate inquirer / by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40201</idno>
+            <idno type="STC">Wing F1845</idno>
+            <idno type="STC">ESTC R31684</idno>
+            <idno type="EEBO-CITATION">12244844</idno>
+            <idno type="OCLC">ocm 12244844</idno>
+            <idno type="VID">56910</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56910)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1504:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hypocrites fast and feast not God's holy day hat-honour to men, man's institution not God's : presented to the view and consideration of papistical and Protestant time servers and day-observers, vvill-worshippers and persecutors, and satisfaction of the moderate inquirer / by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works.</term>
+               <term>Christian life --  Quaker authors.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56910:1"/>
+            <pb facs="tcp:56910:1" rendition="simple:additions"/>
+            <p>THE HYPOCRITES FAST and FEAST not GOD's HOLY DAY. HAT-HONOUR to MEN MAN's INSTITUTION, not GOD's. Preſented to the View and Conſidera<g ref="char:EOLhyphen"/>tion of <hi>Papiſtical</hi> and <hi>Proteſtant Time ſervers</hi> and <hi>Day-obſervers, VVill-worſhippers</hi> and <hi>Perſecutors;</hi> and Sa<g ref="char:EOLhyphen"/>tisfaction of the moderate <hi>Inquirer.</hi>
+            </p>
+            <p>By <hi>George Fox.</hi>
+            </p>
+            <p>Printed in the year, 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:56910:2"/>
+            <pb n="3" facs="tcp:56910:2"/>
+            <head>THE HYPOCRITES FAST and FEAST not GOD's HOLY-DAY.</head>
+            <head type="sub">HAT-HONOUR to MEN MAN's INSTITUTION, not GOD's.</head>
+            <p>WHere did ever Chriſt or his Apoſtles command any Be<g ref="char:EOLhyphen"/>lievers, or Chriſtians to obſerve Holy-dayes, or Feaſt dayes; and let us ſee where it is written in the Scriptures of the New Teſtament, in the four <hi>Evangeliſts,</hi> or the Epiſtles, or the <hi>Revelations?</hi> That ever Chriſt or his Apoſtles gave the <hi>Chriſtians</hi> any ſuch Command, that they ſhould obſerve the time called <hi>Chriſtmas,</hi> or a day for Chriſt's Birth? Or that they ſhould obſerve the time called <hi>Eaſter,</hi> or <hi>Whiteſuntide,</hi> or <hi>Peter's,</hi> or <hi>Paul's,</hi> or <hi>Mark's,</hi> or <hi>Luke's</hi> dayes, or any other Saints dayes?</p>
+            <p>Now: you that profeſs your ſelves the <hi>Reformed Churches</hi> from the <hi>Papiſts, Jews</hi> and <hi>Heathen,</hi> and the Scriptures to be your Rule, &amp; are Profeſſors of the New Covenant, where do you prove out of the Scriptures of the new Teſtament that the Apo<g ref="char:EOLhyphen"/>ſtles &amp; any of the primitive Church practiſed any ſuch thing or that Chriſt or his Apoſtles gave any ſuch Command to the
+<pb n="4" facs="tcp:56910:3"/>Churches, that they ſhould practiſe and obſerve any ſuch days let us ſee where this Command is written.</p>
+            <p>For did not the Apoſtle ſay, in his Epiſtle to the <hi>Galatians'</hi> in chapter 4. <hi>But now after ye have known God, or rather are known of God, how turn ye again to the weak and Beggerly E<g ref="char:EOLhyphen"/>lements, whereunto ye deſire again to be in Bondage? Ye obſerve Dayes, and Moneths and Times, and Years; I am afraid of you, leſt I have beſtowed upon you Labour in vain.</hi> And in <hi>Gal.</hi> 3. it is ſaid, <hi>O fooliſh Galatians, who hath bewitched you, that you ſhould not obey the Truth? &amp;c.</hi> And in <hi>Gal.</hi> 5. the Apoſtle exhorts them, <hi>To ſtand faſt in the Liberty<g ref="char:punc">▪</g> wherewith Chriſt hath made them free;</hi> and moreover ſaid, <hi>Be not entangled a<g ref="char:EOLhyphen"/>gain with the Yoke of Bondage.</hi>
+            </p>
+            <p>Now doth not this manifeſt that here were ſome Teachers, that were drawing the Church of the <hi>Galatians</hi> into theſe <hi>Beg<g ref="char:EOLhyphen"/>gerly Elements,</hi> and bringing them again into <hi>Bondage</hi> in ob<g ref="char:EOLhyphen"/>ſerving of <hi>Dayes, Moneths, Times</hi> and <hi>Years;</hi> for it was the A<g ref="char:EOLhyphen"/>poſtles work to bring them out of thoſe Bondages and Begger<g ref="char:EOLhyphen"/>ly Elements, and therefore when they were going back again into obſerving Dayes, and Moneths, and Times and Years, he was afraid that he had beſtowed his Labour upon them in vain: and be exhorts them to ſtand faſt in the Liberty; wherewith Chriſt Jeſus hath made them free &amp; not to be entangled again with the Yoke of Bondage; AGAIN ſignifies that they had been once intangled with that Yoke of Bondage, and Begger<g ref="char:EOLhyphen"/>ly Elements.</p>
+            <p>But O, how are all that are called Chriſtians (ſince the Apo<g ref="char:EOLhyphen"/>ſtles dayes) gone again under this Yoke of Bondage, and theſe beggerly Elements, in obſerving Dayes, Times, Moneths and Years, let their Practice declare! Nay do not both <hi>Papiſts</hi> and <hi>Proteſtants</hi> force People by Laws to obſerve Dayes, and Months, and Times? &amp;c. And therefore is not the Apoſtles Labour and
+<pb n="5" facs="tcp:56910:3"/>Travel beſtowed upon <hi>Chriſtendom</hi> in vain, which was to bring People from under ſuch beggerly Elements, and that Yoke of Bondage, which the Law did require, to ſtand faſt in the Liber<g ref="char:EOLhyphen"/>ty, wherewith Chriſt hath made them free, and not to be entan<g ref="char:EOLhyphen"/>gled again with the Yoke of Bondage. So it was and is Chriſt that has made, and does make his People free from theſe things, in the Apoſtles dayes, and now: And had all <hi>Chriſtendom</hi> kept in this Freedom, they had kept from under this Yoke of Bon<g ref="char:EOLhyphen"/>dage: And therefore they who are redeemed, are to ſtand faſt in the Liberty, wherewith Chriſt hath made them free: And this Liberty which all true Chriſtians are to ſtand faſt in, they are made free by Chriſt, ànd not by man; for man without the Spirit and Mind of Chriſt ſeeks to force and compel Chriſts Followers, and ſuch as he hath made free from the Yoke of Bondage to the outward things that the law commanded, and to the obſerving of Dayes, and Moneths, and Times, Faſts and Feaſts, and Years, ſuch weak and beggerly Elements, them that know God, or are known of God and Chriſt, He hath made them free, and they are to ſtand faſt in their liberty, and not come under, not be entangled with the Yoke of Bondage in ſuch things again; for they that are in ſuch things, and would force others to them, are gone f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om that which gives them the Knowledge of God, and have not ſtood faſt in the liberty, where<g ref="char:EOLhyphen"/>with Chriſt makes free.</p>
+            <div type="part">
+               <head>Concerning Prayer.</head>
+               <p>
+                  <hi>Firſt,</hi> We do not read that ever Chriſt or his Apoſtles did compel any to pray or faſt, and make a law to ſtrain the Goods of ſuch as would not obſerve dayes to faſt and pray with them; but Chriſt taug<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t them how they ſhould pray, and be diſtinct from the Hypocrites, and Chriſt's words are as followeth; <hi>When thou prayeſt thou ſhalt not be as the Hypocrites are, for they
+<pb n="6" facs="tcp:56910:4"/>love to ſtand praying in the Synagegues, and in the Corners of the Streets, that they may be ſeen of men, &amp;c. But when thou prayeſt enter into thy Cloſet, and when thou haſt ſhut thy Poor, pray to thy Father which is in ſecret, and thy Father that ſeeth in ſecret, will reward thee openly; but when you pray uſe not vain Repetitions as the Heathen do; for they think that they ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll be heard for their much ſpeaking: Be not ye therefore l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke unto them; for your Father knoweth what things ye have need of before ye ask him, &amp;c.</hi> So as the Apoſtles and Saints did, ſo do we pray in ſecret, and we pray in publick, &amp;c as the Spirit gives utterance, which helps our Infirmities, as it did the Apoſtles and true Chriſtians; and after this manner we pray for our ſelves. and we pray for all men, both high and low.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Faſting.</head>
+               <p>Chriſt ſaith, <hi>Moreover, when ye faſt be not as the Hypocrites, of a ſad Countenance; for they disfigure their Faces that they may appear unto men to faſt; but when thou faſts anoint thy Head, and waſh thy Face, that thou appear not unto men to faſt, but unto thy Father which is in ſecret, and thy Father which ſeeth in ſecret ſhall reward thee openly.</hi>
+               </p>
+               <p>And likewiſe you may ſee in <hi>Iſaiah</hi> 58. what the true Faſt is the Lord requires, where it is ſaid to the Prophet, <hi>Cry aloud and ſpare not, lift up thy Voice like a Trumpet, and ſhew my Peo<g ref="char:EOLhyphen"/>ple their Tranſgresſion, and the Houſe of Iſrael their Sins, yet they ſeek me daily, and delight to know my Wayes, as a Nation that did Righteouſneſs, and forſook not the Ordinance of their God; they ask of me the Ordinance of Juſtice they take Delight in approach<g ref="char:EOLhyphen"/>ing to God.</hi>
+               </p>
+               <p>
+                  <hi>Wherefore have we faſted ſay they, and thou ſeeſt not? Where<g ref="char:EOLhyphen"/>fore have we afflicted our ſouls, and thou takeſt no Knowledge?</hi>
+               </p>
+               <p>
+                  <hi>Behold, in the Day of your Faſt ye find Pleaſure, and exact all your labours.</hi>
+               </p>
+               <pb n="7" facs="tcp:56910:4"/>
+               <p>
+                  <hi>Behold, ye faſt for Sirife and Debate, and to ſmite with the fiſt of Wickedniſs, ye ſhall not faſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as ye do this day, to make your voi<g ref="char:EOLhyphen"/>ces be heard on high: Is it ſuch a Faſt that I have choſen? a Day for a man t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> his Soul? Is it to how down his Head as a Bulruſh, and to ſpread S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ck<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>loth and Aſhes under him? Wilt thou call this a Faſt<g ref="char:punc">▪</g> and an acceptable Day to the Lord?</hi>
+               </p>
+               <p>
+                  <hi>Is not this the Faſt that I have choſen</hi> (ſaith the Lord) <hi>To looſe the Bands of Wickedneſs, to undo the heavy Burdens and to let the oppreſſed go free, and that you break every Yoke?</hi>
+               </p>
+               <p>So this Faſt that the Lord requires, is not to lay yokes and oppreſs, and lay heavy Burdens, and to make faſt the Bands of Wickedneſs; but to looſe and break ſuch things.</p>
+               <p>And further concerning the true Faſt the Lord requires: <hi>Is it not to deal thy Bread to the hungry, and that thou bring the poor that are caſt out to thy Houſe? When thou ſeeſt the naked that thou cover him, and that thou hide not thy ſelf from thine own fleſh?</hi> (Do you keep this true Faſt?) <hi>Then ſhall the Light break forth as the Morning, and thine Health ſhall ſpring forth ſpeedily, and thy Righteouſneſs ſhall go before thee, the Glory of the Lord ſhall be thy Rere-ward.—Then ſhalt thou call and the Lord ſhall anſwer, thou ſhalt cry, and he ſhall ſay, Here I am: If thou take away from the midſt of thee the Yoke, the putting forth of the finger, and ſpeaking Vanity. And if thou draw out thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oul to the hungry, and ſatisfie the afflicted Soul, then ſhall thy Light riſe in Obſcurity, and thy Darkneſs be as the Noon-day, and the Lord ſhall guide thee con<g ref="char:EOLhyphen"/>tinually, and ſatisfie thy Soul in Drought, and make fat thy bones, and thou ſhalt be like a watered garden, and like a Spring of Wa<g ref="char:EOLhyphen"/>ter, whoſe Waters fail not, &amp;c.</hi>
+               </p>
+               <p>Now here is the true Faſt the Lord requires of his People, &amp; they that obſerve this Faſt, the Lord ſaith, When they call he will anſwer; and you may ſee what Glorious and Happy Com<g ref="char:EOLhyphen"/>forts they do receive from the Lord, that keep this true Faſt;
+<pb n="8" facs="tcp:56910:5"/>but ſuch as faſt for Strife and Debate, and ſmite with the fiſts of Wickedneſs, to make their Voice: to be heard on high, and afflict their Souls for a Day, and bow down their head like a Bulruſh and looſes not the Bands of Wickedneſs, and doth not undo every heavy Burden, and break off every yoke, and let the oppreſſed go free, and doth not deal his Bread to the hungry, and cloth the naked, and bring the poor to his houſe, but hides himſelf from his own Fleſh and clothes not the naked, ſuch Faſts and Faſters the Lord dot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not accept, neither hath he choſen them; but theſe appear to men with their disfigured fa<g ref="char:EOLhyphen"/>ces in bowing down their heads like a Bulruſh for a Day like the Hypocrites to faſt, as Chriſt ſpeaks of in <hi>Mat.</hi> 6. And is it not the Command of Chriſt, that in their Faſt they ſhould not appear unto men to faſt? And now you that would force us to ſhut up our Shops on faſting dayes, or for a Day, doth not this Faſt appear unto men? and is not this the Faſt that the Lord ſaith in <hi>Iſaiah,</hi> he doth not accept; for he ſaith, <hi>Is this the Faſt that I have choſen, a Day for a man to afflict his Soul, and bow down his Head as a Bulruſh?</hi> &amp;c. <hi>Wilt thou call this a Faſt, and an acceptable Day to the Lord?</hi> Iſa. 58.</p>
+               <p>And therefore all God's People are to keep the true Faſt of the Lord, from Debate and Strife, and the Fiſt of Wickedneſs, and that Faſt that breaks the Bands of Wickedneſs, and undoes every heavy Purden, and breaks every yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and lers the op<g ref="char:EOLhyphen"/>preſſed go free, and deals Bread to the hungry, and clothes the naked, and brings the poor that are caſt out, to his own Houſe: So every one that keeps this true Faſt, their Health ſhall grow, and when they call, the Lord will hear them, and the Lord will be their Guide continually, and ſatisfie their Souls in Drought, and make their Bones fat, and ſhall be like a watered garden, and like a Spring of Water whoſe Waters fail not.</p>
+               <p>Now you that keep not this true Faſt, when you ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l upon
+<pb n="9" facs="tcp:56910:5"/>the Lord on your own Faſting-Dayes, doth the Lord anſwer you, and ſay, <hi>Here I am?</hi> (Doth the Lord guide you continual<g ref="char:EOLhyphen"/>ly? And are your Bones made fat by him, and your Souls ſatisfied in Drought? And are you like a watered Garden, and like a Spring, whoſe waters fail not? But you who keep not this true Faſt, do you not want theſe Waters which fail not? So your Souls are not ſatisfied in Drought, but your Bones are lean, and you hear not the Voice of the Lord, who ſaith, <hi>Here I am;</hi> and ſo you looſe the Heritage of <hi>Jacob,</hi> and ride not upon the High Places there, but come under.</p>
+               <p>And therefore every mau and woman, ſhut your hearts a<g ref="char:EOLhyphen"/>gainſt all manner of Evil whatſoever, and trade not with <hi>Baby<g ref="char:EOLhyphen"/>lon</hi>'s Merchants of Confuſion, but keep the ſupernatural Day of Chriſt, that is ſprung from on high, that is by believing and walking in the Light of Chriſt, and being grafted into him; and this will bring you to the true Faſt, and from feeding upon a<g ref="char:EOLhyphen"/>ny Evil, and to the true praying in the Spirit, as Chriſt and the Apoſtles have taught, which Fruits of rhe Spirit is Love, &amp;c. which Birth of the Spirit is not a perſecuting Firth; but he that is born of the Fleſh, will perſecute him that is born of the Spirit; becauſe he will not follow the Birth of the Fleſh, with its weak, beggerly Elements, that entangle with its yoke of Bondage, and its obſerving dayes, moneths, times and years, which the Birth of the Spirit is to ſtand faſt againſt, in the Liberty wherewith Chriſt hath made it free.</p>
+               <p>And do you not know the very <hi>Turks</hi> they keep their Sab<g ref="char:EOLhyphen"/>bath on the ſixth day, and the <hi>Jews</hi> on the ſeventh day, and the Chriſtians meet together on the firſt day of the Week, and that day which the <hi>Turks</hi> keep, the <hi>Jews</hi> and Chriſtians ſhops are open, and that day the <hi>Jews</hi> keep, the <hi>Turks</hi> and Chriſti<g ref="char:EOLhyphen"/>ans ſhops are open; and the firſt dayes the Chriſtians keep, both <hi>Jews</hi> and <hi>Turks,</hi> ſhops are open: And ſo the <hi>Turk</hi> doth not
+<pb n="10" facs="tcp:56910:6"/>force the <hi>Jews</hi> nor Chriſtians to ſhut up their ſhops on their meeting-dayes, but lets them have their Liberty in the <hi>Turks</hi> Counrry.</p>
+               <p>And where do you read, that ever the <hi>Turks</hi> forced any Chriſtians to obſerve any of their Holy-Dayes Faſts or Feaſts? and if not, ſhould not Chriſtians be beyond the <hi>Turks,</hi> in gi<g ref="char:EOLhyphen"/>ving Liberty to all tender Conſcience to ſerve God, ſeeing Chriſt and the Ap ſtles command not, nor for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e People to ob<g ref="char:EOLhyphen"/>ſerve Holy-Dayes, or Times, or Monet's, or years, but ſhould pray alwayes in the Spirit, and faſt alwayes from Strife and De<g ref="char:EOLhyphen"/>bate, and from all manner of Sin and Evil; and that will keep down the Fiſt of Wickedneſs, and the Bond of Iniquity &amp;c.</p>
+               <p>And why ſhould not People that be of tender Conſciences have their Liberty to exerciſe their Conſciences towards God? that they may have a good Conſcience alwayes towards God and man, and to that which God requires, and to do unto all men as they would have them do unto them, &amp; to love their Neigh<g ref="char:EOLhyphen"/>bours as themſelves: And ſeeing there is ſo many debauched and ſeared Conſciences<g ref="char:punc">▪</g> as with a hot Iron have their Liberty in their looſe Lives and Converſations, and in their looſe words, whoſe Tongues are at liberty to ſwear and curſe, and their Spi<g ref="char:EOLhyphen"/>rits are at liberty in Drunkenneſs and Uncleanneſs; ſo let the Magiſtrates look &amp; ſee how this evil Conſcience hath its liber<g ref="char:EOLhyphen"/>ty, to be exerciſed in all manner of Evil Things, yea all <hi>Chriſten<g ref="char:EOLhyphen"/>dom</hi> over, which is a great Shame and Diſhonour to God, Chriſt, Chriſtianity &amp; Humanity: And therefore, why ſhould not God's People have their liberty to exerciſe their good and tender Conſciences towards God and man; for the Myſtery of Faith, which Chriſt Jeſus is the author and finiſher of, is held in a pure Conſcience; and ſhould not the Work of the Chriſtian Magi<g ref="char:EOLhyphen"/>ſtrates be to encourage the Exerciſe of this pure Conſcience to<g ref="char:EOLhyphen"/>wards God and man, and to diſcourage the exerciſe of this evil
+<pb n="11" facs="tcp:56910:6"/>Conſcience, which diſhonours God, Chriſt and true Chriſti<g ref="char:EOLhyphen"/>anity? If not, how are they a Praiſe to them that do well, and a Terror to evil-doers.</p>
+               <p>And now concerning <hi>The not Putting off Hats,</hi> for which ma<g ref="char:EOLhyphen"/>ny that go under the Name of Chriſtians have taken Offence at us, becauſe we could not put off our Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and bow down to them, for which we find no ſuch command from Chriſt or his Apoſtles, but rather to the contrary; for Chriſt ſaith,</p>
+               <p>
+                  <hi>I receive not Honour of man:</hi> M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk,<note place="margin">Job. 5.41, 42.</note> he did not re<g ref="char:EOLhyphen"/>ceive Honour of men. And further Chriſt ſaith, <hi>How can ye believe, which recive Hon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur one of another, and ſeek not the Honour that comes from God only.</hi>
+               </p>
+               <p>Now Chriſt declares it to be a Mark of an Unbeliever, that ſeeks Honour one of another, and ſeeks not that Honour that comes from God only: And is not the putt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng off the Hat, and bowing with it, an Honour of men, which they ſeek one of another, and are offended if they have it not? Nay, have they not fined, perſecuted and impriſoned ſome, becauſe they did not put off their Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to them? Nay, do not the ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <hi>Turks</hi> mock at the Chriſtians in their Proverb, ſaying: <hi>That the Chriſtians ſpend moſt of their time in ſhewing their bare Heaths one to another?</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut ſhould not the <hi>Chriſtians</hi> be beyond the <hi>Turks,</hi> that bear that noble Name of <hi>Chiſtian,</hi> in ſeeking Ho<g ref="char:EOLhyphen"/>nour one of another, and perſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uting them that will not give it them? when all true believing <hi>Chriſtians</hi> ſhould ſeek the Ho<g ref="char:EOLhyphen"/>nour that comes from God only, whi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h is the Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y of all true Believers in Chriſt Jeſus; for he would not receive Hon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur of men: And he that believeth on the Son of God hath Ever laſting Life, and he that believe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h not the Son of God, ſhall not ſee Life, but the Wrath of God abi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eth upon him.</p>
+               <p>And now, is not the <hi>Turks</hi> Proverb a Reproach to the <hi>Chri<g ref="char:EOLhyphen"/>ſtians?</hi> who ſay, that <hi>The Chriſtians ſpend moſt of their time in
+<pb n="12" facs="tcp:56910:7"/>ſhewing their bare Heads one to another;</hi> Nay have you not fined and impriſoned many, becauſe that they could not put of their Hats to you, and ſhew you their bare Heads? Nay in many of your courts they ſhall not have Right and Juſtice; and its hard for Apprentices, in ſome Places, to get their Liberty &amp; Freedom in Cities or States, though they have truly ſerved their Time, &amp; are honeſt &amp; civil men, unleſs they will put off their hats &amp; ſhew their bare Heads: And have not ſome of you made a law againſt ſuch as will not put off their hats, and ſhew you their bare heads, yea and to compel and force them to do it, and fine ſuch as do not, <hi>Two Guilders,</hi> as at <hi>Lanſmeer</hi> in <hi>Holland;</hi> in <hi>Waterland?</hi> And is not this the Honour that you ſeek one of another? Did not the <hi>Phariſees</hi> and <hi>Jews</hi> do the ſame.</p>
+               <p>Now as for your ſaying, the Apoſtle commands <hi>To honour all men, and ſuch as rule well are worthy of double Honour.</hi> Now if this Honouring all men, were to put off the Hat to àll men, &amp; ſhew all men their bare Heads, then this command you break your ſelves; for you do not do this to all men generally; and if they that rule well muſt have <hi>Double Hat-honour,</hi> then they muſt put off their Hats twicej ànd ſhew their bare Heads twice. Now if this Hat-Honour and ſhewing the bare Head be an In<g ref="char:EOLhyphen"/>vention of man, and not from God, and ye cannot prove it by Scripture, and yet you ſay it is your Rule, then you act beſide the Rule, and compel People to act conrrary to your Rule; for where did ever the Prophets, Chri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t or the Apoſtles command any ſuch thing? let us ſee a Command, a Practice or an Ex<g ref="char:EOLhyphen"/>ample for it.</p>
+               <p>
+                  <hi>Nebuchadnezzar</hi> who was a Perſecutor, and caſt the <hi>Three Chidren of Iſrael</hi> into the fire, <hi>With their Hoſe, Cloaks and Hats,</hi> we do not read that he was offended at them, becauſe they did not p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t off their Hats, and ſhew him their bare Heads, but becauſe they would not bow to his Image. And is it not
+<pb n="13" facs="tcp:56910:7"/>in the Margin of the Pible, where it is ſaid, <hi>Honour all men,</hi> it is ſaid, <hi>Have all men in Eſr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em;</hi> then they that rule well are worthy of <hi>Double E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>;</hi> and this Eſteem muſt be trùly in the Heart, without any Envy, Malice or Hatred, as all men are the Workmanſhip of God, they are to be eſteemed in the Heart, wi h the Spirit of God; and they that Rule wellare worthy of double Eſteem; and here is true Honour from the Heart, both to God and man his Workmanſhip; for People may put off their Hats, and ſhew their bare heads one to ano<g ref="char:EOLhyphen"/>ther, and put off their Hats, and ſhew their bare Heads twice to the Officers and to the Megiſtrates, and be full of Envy, and Malice, and Hatred, and Murder in their Hearts one againſt an<g ref="char:EOLhyphen"/>other, and give them that Honour as you callit, and yet ſpeak or wiſh bad things of them, when they have turned their Backs on them, which the true Honour or Eſteem in thê Heart to all men as they are God's Creation, is without any evil Wiſh or Thought in the Heart to all men, and to them that rule well, which have the double Eſteem; whom God hath placed over People, there is no Evil in the Hear, that gives this Reſpect, E<g ref="char:EOLhyphen"/>ſteem or Honour, and brings them to love their Neighbour as themſelves, and to do unto all men, as they would have them do unto them, in that they eſteem all men, and they have a <hi>Double Eſteem</hi> to them that rule well; and that is beyond àll the Honour of putting off the Hats once to the Commonality, and twice to them that are worthy of <hi>Double Honour</hi> (as you call it) We would ask the Chriſtians that practiſe the Hat Honour, and ſhew one another the bare Head, who did invent the ſingle Honour and double Honour, that they ſhould put off their Hats one to another, and ſhew one another their bare Heads, ſeeing they cannot prove that ever Chriſt or his Apoſtles did command or pra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiſe any ſuch thing.</p>
+               <p>Now concerning Perſecuting, impriſoning and Baniſhing
+<pb n="14" facs="tcp:56910:8"/>God's People, in whom Chriſt is manifeſt, and dwells in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>earts; doth not Chriſt t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll you, that you impriſon him? and then, do not you baniſh him, and perſecu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e him ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of your Ci<g ref="char:EOLhyphen"/>ties and Corporations? And how can you ente<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> into his King<g ref="char:EOLhyphen"/>dom, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>are a Share of his Kingdom, though you may pro<g ref="char:EOLhyphen"/>feſs him in words? And d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d not they g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> verlaſting Pu<g ref="char:EOLhyphen"/>niſhment that did not viſit Chriſt in priſon, then what will become of you that do baniſh and impriſon him, whe e he is ma<g ref="char:EOLhyphen"/>nifeſt in his Members, not ſuffer them to meet together to en<g ref="char:EOLhyphen"/>joy him amongſt them, according to his Promiſe.</p>
+               <p>And therefore you that will not let Chriſt reign in his Peo<g ref="char:EOLhyphen"/>ple, and have his Liberty, and exerciſe his Offices in them, in your Cities and Countries, you will not have your Liberty in Heaven; and you that will not let Chriſt reign in your Hearts, nor ſuffer him to reign in hîs Peoples here upon the Earth, in this World in your Kingdoms; you will not reign with Chriſt in Heaven in his Kingdom, nor in the World without End.</p>
+               <p>And ſo you that baniſh the Truth out of your Cities o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Countries, or his People for its ſake, you do baniſh the Truth and Chriſt out of your Hearts, from ruling there, and exerciſing his Kingly, Prieſtly and Prophetical Office in his People, and ſo you your ſelves are not the Temples of God: And then, when you have baniſhed Chriſt and his Truth out of your own Hearts, then you do baniſh ſuch in whom he rules out of your States and Countries, and then ſee what Judgments the Lord doth bring upon you, when you are left to your ſelves; yea, Fears and Truobles, and one Judgment after another comes upon you, that you are even ſilled with them; but the baniſh<g ref="char:EOLhyphen"/>ed and Sufferers for Truth and Chriſt's Sake, have a peacea<g ref="char:EOLhyphen"/>ble Habitation in the Truth, which the Devil is out of and can<g ref="char:EOLhyphen"/>not get in, which Habitation w ll out-laſt all the Habitations of the Wicked and Perſecutors, though they be never ſo full of
+<pb n="15" facs="tcp:56910:8"/>Words without Life and Truth; for the Life and the Truth will out-laſt all airy Notions, and Chriſt the Lamb and pati<g ref="char:EOLhyphen"/>ent Seed will overcome the Devourer and un patient Seed; and they that have the Garments, the Righteouſneſs of Chriſt, which is the fine Linnen, it will out-laſt all the Rags and In<g ref="char:EOLhyphen"/>ventions of men; for Chriſt ſaith to his Learners, <hi>Be of good cheer, I have ov rcome the World,</hi> the Perſcu<g ref="char:cmbAbbrStroke">̄</g>ting World: And ſo he ſaid unto his Diſciples, <hi>Marvel not if the World bate you; for it hated me before you</hi>
+               </p>
+               <p>And therefore let all that profeſs themſelves Chriſtians lay away Perſecution about Religion, Churches or Worſhip, Faſt<g ref="char:EOLhyphen"/>ing or Praying-dayes; for you have no command from Chriſt and his Apoſtles to perſecute any: For Chriſt who is the King of kings, and Lord of lords when they called him a Deceiver, and blaſphemed him, and ſaid he had a Devil, he did not per<g ref="char:EOLhyphen"/>ſecute any of them for it, nor force or compel any to hear or believe him, nor the Ap<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtles aft<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r him, but he ſaid to them that would have been plucking up the T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>res, <hi>Let the Tares and the Wheat grow together until the Harveſt.</hi> So you have no Command from Chriſt or his Apoſtles, to Perſecute, Impriſon or Baniſh, or Spoil the Goods of any, for matter of pure Con<g ref="char:EOLhyphen"/>ſcience, and Religion, Worſhip, Faith and Church, in the Goſpel-times.</p>
+               <closer>
+                  <signed>George Fox.</signed>
+                  <dateline>
+                     <hi>Amſterdam,</hi> in <hi>Holland</hi> 
+                     <date>the 15th of the 7th Moneth, 1677.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
